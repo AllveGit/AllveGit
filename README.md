@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <h3 align="center">😎 About Me 😎</h3>
 
 <p align="center">
-  <img src = "https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Blogger&logoColor=white"/>
-  <img src = "https://img.shields.io/badge/-allvegamedevelop@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+  <a href="https://AllveGit.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=GitHub&logoColor=white&link=https://AllveGit.github.io/"/></a>&nbsp
+  <a href="mailto:allvegamedevelop@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=allvegamedevelop@gmail.com"/></a>
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
