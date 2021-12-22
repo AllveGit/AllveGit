@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <a href="mailto:allvegamedevelop@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=allvegamedevelop@gmail.com"/></a>
 </p>
 
-<br>
+<br><br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src = "https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
