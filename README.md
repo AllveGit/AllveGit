@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 </p>
 
 <br><br>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">
+<h3 align="left">🛠 Tech Stack 🛠</h3>
+<p align="left">
   <img src = "https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src = "https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp
   <img src = "https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a>&nbsp
@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<p align="center">
+<p align="left">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAllveGit&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 </p>
