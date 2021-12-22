@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3 align="center">😎 About Me 😎</h3>
+
+<p align="center">
+  <img src = "https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Blogger&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/-allvegamedevelop@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+</p>
+
+<br><br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
@@ -25,6 +33,3 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>&nbsp
   <img src = "https://img.shields.io/badge/-UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/></a>&nbsp
 </p>
-
-<img src = "https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Blogger&logoColor=white"/>
-<img src = "https://img.shields.io/badge/-allvegamedevelop@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
