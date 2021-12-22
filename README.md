@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💪 Skills
+<h1>💪 Skills</h1>
 
 Languages
 
