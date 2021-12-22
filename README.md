@@ -16,6 +16,7 @@ Here are some ideas to get you started:
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAllveGit&count_bg=%23FFC500&title_bg=%23555555&icon=diaspora.svg&icon_color=%23FFDD00&title=visitors&edge_flat=false"/></a>
 </p>
 
+<h3 align="left">About Me</h3>
 <p align="left">
   <a href="https://AllveGit.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=GitHub&logoColor=white&link=https://AllveGit.github.io/"/></a>&nbsp
   <a href="mailto:allvegamedevelop@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=allvegamedevelop@gmail.com"/></a>
