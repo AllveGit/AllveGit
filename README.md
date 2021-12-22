@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 <h3>Tools</h3>
 
 <img src = "https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/> <img src = "https://img.shields.io/badge/-UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllveGit&show_icons=true&theme=radical)
