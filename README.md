@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/-allvegamedevelop@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </p>
 
-<br><br>
+<br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
