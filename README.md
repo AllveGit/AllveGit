@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">😎 About Me 😎</h3>
-<p align="center">
+<p align="left">
   <a href="https://AllveGit.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=GitHub&logoColor=white&link=https://AllveGit.github.io/"/></a>&nbsp
   <a href="mailto:allvegamedevelop@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=allvegamedevelop@gmail.com"/></a>
 </p>
