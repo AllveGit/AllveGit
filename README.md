@@ -12,11 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="text-align:center"><img src = "https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Blogger&logoColor=white"/></div>
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<p align="center">
+  <img src = "https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+  <img src = "https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp
+  <img src = "https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a>&nbsp
+  <img src = "https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
+  <img src = "https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp
+  
+  <img src = "https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>&nbsp
+  <img src = "https://img.shields.io/badge/-UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/></a>&nbsp
+</p>
+
+<img src = "https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Blogger&logoColor=white"/>
 <img src = "https://img.shields.io/badge/-allvegamedevelop@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
-
-<h2>💪 Stack</h2>
-
-<img src = "https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src = "https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src = "https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/> <img src = "https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src = "https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
-
-<img src = "https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/> <img src = "https://img.shields.io/badge/-UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
