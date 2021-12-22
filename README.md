@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <img src = "https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Blogger&logoColor=white"/> <img src = "https://img.shields.io/badge/-allvegamedevelop@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 
-### Hi there 👋
+Hi there 👋
 
 <h2>💪 Stack</h2>
 
