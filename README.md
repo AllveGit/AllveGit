@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAllveGit&count_bg=%23FFC500&title_bg=%23555555&icon=diaspora.svg&icon_color=%23FFDD00&title=visitors&edge_flat=false"/></a>
+</p>
+
+<p align="left">
   <a href="https://AllveGit.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=GitHub&logoColor=white&link=https://AllveGit.github.io/"/></a>&nbsp
   <a href="mailto:allvegamedevelop@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=allvegamedevelop@gmail.com"/></a>
 </p>
 
-<!--I'm game programmer-->
 
-<br>
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 <p align="left">
   <img src = "https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
@@ -30,9 +32,4 @@ Here are some ideas to get you started:
   <br>
   <img src = "https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>&nbsp
   <img src = "https://img.shields.io/badge/-UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/></a>&nbsp
-</p>
-
-<br>
-<p align="left">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAllveGit&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 </p>
