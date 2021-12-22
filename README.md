@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src = "https://img.shields.io/badge/-C-3DDC84?style=flat-square&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
+<img src = "https://img.shields.io/badge/-C-Blue?style=flat-square&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
