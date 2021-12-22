@@ -1,5 +1,3 @@
-<!--### Hi there 👋 -->
-
 <!--
 **AllveGit/AllveGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src = "https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Blogger&logoColor=white"/> <img src = "https://img.shields.io/badge/-allvegamedevelop@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+
+### Hi there 👋
 
 <h2>💪 Stack</h2>
 
