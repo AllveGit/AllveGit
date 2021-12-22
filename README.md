@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src = "https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src = "https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B"/> <img src = "https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c%2B%2B"/> <img src = "https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=c%2B%2B"/> <img src = "https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=c%2B%2B"/>
+<img src = "https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src = "https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src = "https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/> <img src = "https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src = "https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
+
 <img src = "https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=c%2B%2B&logoColor=black"/>
