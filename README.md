@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a>&nbsp
   <img src = "https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
   <img src = "https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp
-  <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
+  <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <br>
   <img src = "https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>&nbsp
   <img src = "https://img.shields.io/badge/-UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/></a>&nbsp
