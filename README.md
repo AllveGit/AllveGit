@@ -19,18 +19,31 @@ Here are some ideas to get you started:
 </p>
 
 <br>
+
 <h3 align="left">🛠 Tech Stack</h3>
 
+<h4 align="left">Language</h3>
+
 <p align="left">
-  <img src = "https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+   <img src = "https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src = "https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp
   <img src = "https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a>&nbsp
   <img src = "https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
   <img src = "https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp
   <img src = "https://img.shields.io/badge/-Python-3776AB?&style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <br>
+</p>
+
+<h4 align="left">GameEngine</h3>
+
+<p align="left">
   <img src = "https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>&nbsp
   <img src = "https://img.shields.io/badge/-UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/></a>&nbsp
+</p>
+
+<h4 align="left">DevOps</h3>
+
+<p align="left">
+   <img src = "https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
   <img src = "https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
   <img src = "https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp
 </p>
