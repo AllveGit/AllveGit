@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
 <h3 align="left">💬 About Me</h3>
 <p align="left">
   <a href="https://AllveGit.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=GitHub&logoColor=white&link=https://AllveGit.github.io/"/></a>&nbsp
