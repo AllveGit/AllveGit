@@ -46,8 +46,3 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
   <img src = "https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
 </p>
-
-<br>
-<h3 align="left">💻 Progress</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllveGit&show_icons=true&theme=radical)
